@@ -1,5 +1,5 @@
 # Replication-Risk-Depression-Babies
-#This is the Stata Code that runs the replication exercise
+#This is the Stata Code that runs the "Risk Taking Report Replication Exercise"
 Nancy Li
 Replication Final: Depression Babies
 
